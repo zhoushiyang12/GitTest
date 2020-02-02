@@ -1,3 +1,2 @@
-试一下啊
-123
-
+First test of GIT，taste good~
+God bless you,boy!~
